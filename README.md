@@ -4,3 +4,4 @@ The Sudoku is a logic-based, combinatorial number-placement puzzle. The objectiv
 compose the grid (also called "boxes", "blocks", or "regions") contain all the digits from 1 to 9. 
 The puzzle setter provides a partially completed grid, which for a well-posed puzzle has a single 
 solution. 
+This Project aimed to solve the game using genetic algorithm (GA)
